@@ -62,7 +62,7 @@ export const projectData: TCard[] = [
   {
     category: 'Ecommerce Project',
     title: 'Avenue39',
-    posterImage: '/projects/animated-slides.webp',
+    posterImage: '/projects/animated-slides.png',
     description: `Avenue39 is an e-commerce platform designed for a seamless furniture shopping experience. Developed both the backend (NestJS, Prisma, PostgreSQL) and frontend (Next.js) to ensure a robust and user-friendly system. Added key features like JWT-based authentication, dynamic cart management, and real-time data fetching. This project significantly enhanced my understanding of enterprise-level full-stack development.`,
     techstack: [
       'NestJS',
@@ -80,7 +80,7 @@ export const projectData: TCard[] = [
   {
     category: 'Booking Platform',
     title: 'Dr. Kate Beauty',
-    posterImage: '/projects/dashboard.webp',
+    posterImage: '/projects/dashboard.png',
     description: `Dr. Kate Beauty is an appointment booking system integrated with an online luxury beauty store. Built the frontend for a seamless user experience, handled server deployment, and added booking flow management features. Gained hands-on experience in developing scalable booking systems and integrating e-commerce functionalities.`,
     techstack: [
       'React.js',
@@ -94,7 +94,7 @@ export const projectData: TCard[] = [
   {
     category: 'AI Project | Personal',
     title: 'AskPDF - AI Document Assistant',
-    posterImage: '/projects/gdm-design-agency.png',
+    posterImage: '/projects/afrobot.png',
     description: `AskPDF is an intelligent document assistant that allows users to upload PDFs and ask questions about the content. Built with advanced AI technology, it analyzes documents and provides accurate answers based on the uploaded content. The platform features a clean interface for document management, real-time question-answering, and supports multiple document formats. This project demonstrates expertise in AI integration, document processing, and creating user-friendly AI-powered applications.`,
     techstack: [
       'React.js',
@@ -106,6 +106,6 @@ export const projectData: TCard[] = [
       'Vector Database',
       'TailwindCSS',
     ],
-    liveUrl: 'https://askpdf.mujtabacodes.com/',
+    liveUrl: 'https://www.afroboost.com/',
   },
 ];
