@@ -13,7 +13,7 @@ export const timelineData = [
         <div className="grid grid-cols-2 gap-4">
           <div className="relative group h-20 md:h-44 lg:h-60 w-full">
             <Image
-              src="/projects/avenue39.PNG"
+              src="/projects/afroboost.webp"
               alt="Avenue39 Project"
               width={500}
               height={500}
@@ -46,7 +46,7 @@ export const timelineData = [
 
           <div className="relative group h-20 md:h-44 lg:h-60 w-full">
             <Image
-              src="/projects/Bnc.PNG"
+              src="/projects/dashboard.webp"
               alt="BNC Project"
               width={500}
               height={500}
@@ -145,7 +145,7 @@ export const timelineData = [
           </div>
           <div className="relative group h-20 md:h-44 lg:h-60 w-full">
             <Image
-              src="/projects/drkate.png"
+              src="/projects/animated-slides.webp"
               alt="Artiart Project"
               width={500}
               height={500}
@@ -221,7 +221,7 @@ export const timelineData = [
 
         <div className="grid grid-cols-2 gap-4">
           <Image
-            src="/projects/agson.png"
+            src="/projects/gdm-design-agency.png"
             alt="hero template"
             width={500}
             height={500}
